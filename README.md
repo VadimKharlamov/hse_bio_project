@@ -1,9 +1,14 @@
 # hse_bio_project
 
 Поиск информации по квадруплексам - https://colab.research.google.com/drive/1x1ucrQ9-MguIbGLdxtgUGPbUAFk-Bd-S?usp=sharing
+
 Работа и анализ результатов zhunt - https://colab.research.google.com/drive/1bFL3ZdrZQ4qSMVoRgttEo78sPlsMn09A?usp=sharing
+
 Работа и анализ результатов zdnabert - https://colab.research.google.com/drive/1fYl1IkS1wUAapt1DH2NBIV94KffnJKn4?usp=sharing
+
 Прогон hmmer для проверки семейств - https://colab.research.google.com/drive/1ntZuHzYkJEHoWN1E8qu4LZQrQDQxB-ix?usp=sharing
+
++ ноутбуки прикреплены в файлах проекта
 
 ## Таблица по участкам
 |Участок|Число квадруплексов|Доля квадруплексов|Число предсказаний Zhun|Доля предсказаний Zhun|Число предсказаний ZDNABERT|Доля предсказаний ZDNABERT|
